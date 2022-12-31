@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+  
+<h1 align="center"> Hola, I'm Derry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1> 
 
-<!--
-**derryromeo/derryromeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: &nbsp;About Me :
 
-Here are some ideas to get you started:
+I am a mathematics student from Universitas Pendidikan Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m working as a Content Production Intern.
+- 🌱 Currently learning: Python, SQL, Clojure.
+- ⚡ In my free time I listen to music and watch movies.
+- 📫 Reach me out: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Derry-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/derryrivel/])
+
