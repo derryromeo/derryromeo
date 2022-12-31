@@ -5,10 +5,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a mathematics student from Universitas Pendidikan Indonesia.
+I am a final year mathematics student from Universitas Pendidikan Indonesia.
 
 - 🔭 I’m working as a Content Production Intern.
 - 🌱 Currently learning: Python, SQL, Clojure.
 - ⚡ In my free time I listen to music and watch movies.
-- 📫 Reach me out: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Derry-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/derryrivel/])
-
+- 📫 Reach me out: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Derry-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derryrivel)
